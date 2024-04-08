@@ -1,4 +1,4 @@
-# carProgram
+# car_program
 This program will allow users (car dealerships) to create a database for their comapany to store information about cars. It currently provides some basic functionality such as:
   a.) Creating car objects
       - Information about make, model, year, mileage.
